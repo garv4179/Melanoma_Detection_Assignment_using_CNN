@@ -2,6 +2,9 @@
 >
 > This project uses a custom CNN to detect melanoma in images of skin lesions among 10 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 87% accuracy.
 
+### Problem Statement ###
+The current diagnostic process for melanoma involves a skin biopsy, where a dermatologist examines a portion of the skin lesion under a microscope. This procedure, from scheduling a dermatologist's appointment to receiving biopsy results, typically takes a week or more. The objective of this project is to reduce this timeline to just a couple of days by leveraging a predictive model. The approach utilizes a Convolutional Neural Network (CNN) to classify nine types of skin cancer from lesion images. This accelerated process has the potential to positively impact millions of lives.
+
 ## Table of Contents
 
 - [Melanoma-Detection-using-using-custom-cnn](#melanoma-detection-assignment-using-custom-cnn)
